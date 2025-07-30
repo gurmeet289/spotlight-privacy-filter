@@ -157,4 +157,6 @@ Or install manually:
     
     Whether you’re teaching, presenting, protecting sensitive data, or just staying focused, **Spotlight Privacy Filter** is a lightweight tool that gives you control over what stays visible on your screen.
     
-  
+  ##Laptop/Desktop Utilty;
+
+  You can download the utility(.exe) file into you local space and execute it by double click on it.
