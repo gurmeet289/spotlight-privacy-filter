@@ -1,0 +1,5 @@
+pystray 
+keyboard 
+pillow
+pyautogui 
+screeninfo
