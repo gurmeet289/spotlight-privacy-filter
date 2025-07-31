@@ -1,5 +1,7 @@
 # 🔒 Spotlight Privacy Filter
 
+Note:- If you want to download the utility(.exe) file and use it, you can scroll down to bottom for the link.
+
 A lightweight Python desktop utility that creates a movable spotlight around your mouse cursor, dimming the rest of the screen. Perfect for screen sharing, focused presentations, or maintaining on-screen privacy during demos.
 
 ---
@@ -160,3 +162,5 @@ Or install manually:
   ##Laptop/Desktop Utilty;
 
   You can download the utility(.exe) file into you local space and execute it by double click on it.
+
+    https://drive.google.com/file/d/1SxAnWfb3ftf_OomD0eugy7ssnBy5Vnug/view?usp=sharing
