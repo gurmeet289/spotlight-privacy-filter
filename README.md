@@ -2,6 +2,12 @@
 
 Note:- If you want to download the utility(.exe) file and use it, you can scroll down to bottom for the link.
 
+
+
+https://github.com/user-attachments/assets/189e8cdd-f949-43c6-8cfe-b03f3fc6382d
+
+
+
 A lightweight Python desktop utility that creates a movable spotlight around your mouse cursor, dimming the rest of the screen. Perfect for screen sharing, focused presentations, or maintaining on-screen privacy during demos.
 
 ---
